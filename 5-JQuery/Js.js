@@ -5,22 +5,22 @@
   }
   console.log(myFunction(4, 3));
 
-   //Sans paramétres et Local Variables
-   function myFunction2() {
-    var n1 = 10;
-    var n2 = 5;
-    return n1 * n2;
-  }
-  console.log(myFunction2());
-  console.log(n1);
+  //  //Sans paramétres et Local Variables
+  //  function myFunction2() {
+  //   var n1 = 10;
+  //   var n2 = 5;
+  //   return n1 * n2;
+  // }
+  // console.log(myFunction2());
+  // console.log(n1);
 
   
-  //return value
-  var x = myFunction2();
-  console.log("x = "+ x);
+  // //return value
+  // var x = myFunction2();
+  // console.log("x = "+ x);
 
-  //Accessing a function without ()
-  console.log(myFunction2);
+  // //Accessing a function without ()
+  // console.log(myFunction2);
   
   // // $("p").click(function(){
   // //   $(this).hide();
