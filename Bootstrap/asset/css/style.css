@@ -16,6 +16,10 @@
   html {
     font-family: "Lucida Sans", sans-serif;
   }
+
+  body{
+    background-image: url("https://freeandaddicted.com/wp-content/uploads/2017/12/Runaway_Girl_Chefchaouen.jpg");
+  }
   
   .header {
     background-color: #dd814b;
@@ -92,4 +96,4 @@
     .col-10 {width: 83.33%;}
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
-  } */
+  } 
