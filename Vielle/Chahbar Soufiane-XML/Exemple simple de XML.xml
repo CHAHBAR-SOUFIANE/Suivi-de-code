@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SoliCode>
+  <Stagaire>
+    <Nom>CHAHBAR</Nom>
+    <Prénom>SOUFIANE</Prénom>
+    <Age>25</Age>
+  </Stagaire>
+  <Stagaire>
+    <Nom>Jalal</Nom>
+    <Prénom>Jalal</Prénom>
+    <Age>30</Age>
+  </Stagaire>
+  <Formateur>
+    <Nom>Morad</Nom>
+    <Prénom>Morad</Prénom>
+    <Age>40</Age>
+  </Formateur>
+</SoliCode>

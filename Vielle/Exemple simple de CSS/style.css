@@ -1,0 +1,17 @@
+*
+{
+	text-align : center;
+}
+
+h2
+{
+	color : rgb(255, 0, 157);
+}
+.comp
+{
+	color : green;
+}
+h1:hover
+{
+	background-color : pink;
+}

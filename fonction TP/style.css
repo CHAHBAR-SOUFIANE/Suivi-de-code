@@ -1,0 +1,31 @@
+*{
+    margin: 12px;
+    
+}
+
+label{
+    font-size: 30px;
+   
+}
+
+input{
+    width: 50px;
+    height: 30px;
+    
+}
+
+p{
+    font-size: 30px;
+}
+
+div{
+    background-color: antiquewhite;
+    width: 400px;
+}
+
+#btnCal{
+    width: 100px;
+    font-size: larger;
+    height: 50px;
+}
+

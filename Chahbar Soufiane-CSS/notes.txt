@@ -1,0 +1,11 @@
+foat : left;
+
+::after et ::befor
+
+box-sizing : border-box;===>awl 7aja n3mloha f CSS
+
+viewport==><meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+Grid-view==>W3S recommendation : 12 columns, 8.33% per columns
+
+Media queries==>Pour adapter les site web 

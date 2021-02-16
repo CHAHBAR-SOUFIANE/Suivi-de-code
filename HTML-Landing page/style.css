@@ -1,0 +1,11 @@
+body
+{
+margin :0%;
+line-height:1.6;
+}
+header
+{
+    background-image : url("blue20.jpg");
+    text-align:center;
+}
+h1{color:burlywood;}

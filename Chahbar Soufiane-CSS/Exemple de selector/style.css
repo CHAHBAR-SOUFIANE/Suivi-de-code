@@ -1,0 +1,48 @@
+*
+{
+	text-align : center;
+}
+
+h2
+{
+	color : red;
+}
+.comp
+{
+	color : green;
+}
+#titre
+{
+	background-color:cyan;
+
+}
+.nom
+{
+	font-size: 300%;
+	/* clear: left; */
+}
+.contact h2
+{
+	color: darkkhaki;
+}
+
+/* img
+{
+  	
+  float: left;
+} */
+/* .fixparagraf
+{
+	position : fixed; 
+	top : 30px;
+} */
+/* .relativeP
+{
+	 position: relative;
+	 top:30px;
+} */
+/* .absoluteTest
+{
+	position : absolute;
+	top : 20px;
+} */
